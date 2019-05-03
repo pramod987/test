@@ -1,0 +1,23 @@
+{
+  "name": "pramod987/module-test",
+  "description": "N?A",
+  "type": "magento2-module",
+  "version": "1.0.0",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Bluethink",
+      "email": "mohit@bluethink.in",
+      "homepage": "https://www.bluethink.in",
+      "role": "Technical Support"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Pramod987\\Test\\": ""
+    }
+  }
+}
