@@ -12,6 +12,8 @@
       "role": "Technical Support"
     }
   ],
+  "minimum-stability": "dev",
+  "prefer-stable": false,
   "autoload": {
     "files": [
       "registration.php"
